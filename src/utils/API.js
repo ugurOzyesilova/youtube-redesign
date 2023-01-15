@@ -17,6 +17,3 @@ export const fetchAPI = async (url) => {
     return data;
 }
 
-/*
-baseUrl/getVideos etc.
-*/
